@@ -8,8 +8,8 @@
   ],
   "routes": [
     {
-      "src": "/tasks/(.*)",  
-      "dest": "backend/app.js"  
+      "src": "/api/tasks/(.*)",
+      "dest": "backend/app.js"
     }
   ]
 }
