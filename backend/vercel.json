@@ -8,7 +8,7 @@
   ],
   "routes": [
     {
-      "src": "/api/tasks/(.*)",
+      "src": "/(.*)",
       "dest": "backend/app.js"
     }
   ]
